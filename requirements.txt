@@ -1,0 +1,8 @@
+ontobio >= 0.0
+pandas >= 0.0
+scikit_learn >= 0.0
+click >= 0.0
+graphviz >= 0.0
+pydot >= 0.0
+pytest>=0.0
+jupyter>=0.0
